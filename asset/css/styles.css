@@ -365,6 +365,11 @@ img{
     color: #fff;
     margin: 0 var(--mb2);
 }
+.footer__icon:hover{
+    cursor: pointer;
+    color: var(--first-color);
+    transform: scale(1.1);
+}
 
 
 /* Media Queries */
