@@ -99,6 +99,10 @@ img{
     padding-top: 3rem;
     padding-bottom: 2rem;
 }
+.hub{
+    background-color: var(--first-color);
+    border-radius: .3rem;
+}
 
 /* layout */
 .bd-grid{
@@ -302,6 +306,10 @@ img{
 }
 .skills__web{
     width: 80%;
+}
+
+.skills__img{
+    border-radius: .5rem;
 }
 
 /* Work  */
