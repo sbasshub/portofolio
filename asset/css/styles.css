@@ -467,6 +467,7 @@ img{
     .contact__container{
         justify-items: center;
     }
+    
 }
 
 @media screen and (min-width: 1024px) {
